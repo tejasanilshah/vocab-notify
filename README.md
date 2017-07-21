@@ -11,10 +11,10 @@ Passively build your vocabulary using Ubuntu's notifications
 You can add the following to give you a notification every 5 minutes.<br>
 ```*/5 * * * * DISPLAY=:0 python /path/to/vocab_notify.py #vocab-notify```
 
-##Cron how-to
+## Cron how-to
 You can learn all about crontabs [here](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800)
 
 You can cheat a little bit by using the crontab generator [here](http://www.crontab-generator.org/)
 
-##Screenshot
+## Screenshot
 ![Screenshot of notification](https://github.com/tejasanilshah/vocab-notify/blob/master/notification.png)
